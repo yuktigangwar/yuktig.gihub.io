@@ -1,1 +1,1 @@
-# yuktig.gihub.io
+# yuktig.github.io
